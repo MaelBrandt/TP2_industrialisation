@@ -32,3 +32,11 @@ Quels sont-ils et quelles sont leurs utilités ?
 À quoi sert l’indicateur Quality Gate ?
 
 - mesure booléenne permettant de voir rapidement si le code est près pour la production.
+
+## 2b
+
+Quelle est la différence entre les sections New code et Overall Code dans l’onglet Summary ?
+
+Y a-t-il des Code Smells ? Si oui, combien et pour quelle(s) raisons(s) ?
+
+Y a-t-il des Security Hotspots ? Si oui, combien et pour quelle(s) raison(s) ?
