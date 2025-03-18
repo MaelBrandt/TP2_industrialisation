@@ -37,6 +37,13 @@ Quels sont-ils et quelles sont leurs utilités ?
 
 Quelle est la différence entre les sections New code et Overall Code dans l’onglet Summary ?
 
+- les indicateurs sont différents.
+- overall code est mieux couvert que new code (76.5% contre 50%).
+
 Y a-t-il des Code Smells ? Si oui, combien et pour quelle(s) raisons(s) ?
 
+- Oui, 3. Pour des problêmes de maintenabilité.
+
 Y a-t-il des Security Hotspots ? Si oui, combien et pour quelle(s) raison(s) ?
+
+- Non, car nous n'avons opas définis de codition pour les security hotspots.
