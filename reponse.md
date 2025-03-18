@@ -18,4 +18,3 @@ Une étape est définie au minimum par 2 éléments, lesquels sont-ils et
 La première étape contient le mot-clé ‘with’, a quoi sert-il ?
 
 - définir des paramêtres passé en input. ces paramêtres sont enregistré en tant que variable d'environnement.
-  
