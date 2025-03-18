@@ -44,7 +44,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Login to registry
         run: echo ${{ secrets.PERSONAL_TOKEN }} | docker \
-          login ghcr.io --username MaelBrandt --password-stdin
+          login --username MaelBrandt --password-stdin ghcr.io
       - name: Build the Docker image
         run: docker build . --file Dockerfile --tag \
           ghcr.io/MaelBrandt/tp2:latest
